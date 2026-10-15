@@ -1,0 +1,5 @@
+DEVICE       | INTERFACE | IP ADDRESS      | SUBNET MASK     | GATEWAY
+Router G0/0  | 192.168.1.1 | 255.255.255.0 | N/A
+Router G0/1  | 192.168.2.1 | 255.255.255.0 | N/A
+Left Office  | PC0-PC3   | 192.168.1.10-13 | 255.255.255.0 | 192.168.1.1
+Right Office | PC4-PC7   | 192.168.2.10-13 | 255.255.255.0 | 192.168.2.1
